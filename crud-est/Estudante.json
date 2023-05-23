@@ -1,0 +1,28 @@
+{
+  "Estudantes": [
+    {
+      "id": 1,
+      "Name": "Robson",
+      "Idade": 63,
+      "Email": "eurobson@ricardoeletro.com.br",
+      "Telefone": 11952258198,
+      "Curso": "Engenharia Elétrica"
+    },
+    {
+      "id": 2,
+      "Name": "Claudemir",
+      "Idade": 32,
+      "Email": "Claudemiro23@breakingbad.com",
+      "Telefone": 11977184196,
+      "Curso": "Quimíca"
+    },
+    {
+      "id": 3,
+      "Name": "Elda",
+      "Idade": 22,
+      "Email": "donaelda@etec.sp.gov.br",
+      "Telefone": 11818668743,
+      "Curso": "Meio Ambiente"
+    }
+  ]
+}
